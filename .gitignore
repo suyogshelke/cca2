@@ -1,0 +1,11 @@
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Node / Python environment (if needed in the future)
+node_modules/
+__pycache__/
+*.pyc
+.env
